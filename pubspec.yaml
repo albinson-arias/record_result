@@ -1,5 +1,5 @@
 name: record_result
-description: record_result is a Dart package that provides a type called Result for handling the outcomes of operations. It can represent either a successful result or a failure, allowing you to handle errors in a more functional and expressive way.
+description: record_result is a package that provides a type called Result for handling the outcomes of operations.
 version: 1.0.0+1
 
 repository: https://github.com/albinson-arias/record_result
