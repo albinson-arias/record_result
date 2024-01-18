@@ -182,7 +182,7 @@ If you find any issues or have suggestions for improvement, feel free to open an
 This project is licensed under the MIT License - see the [LICENSE][license_link] file for details.
 
 [coverage_badge]: coverage_badge.svg
-[issue_link]: https://dart.dev/get-dart
+[issue_link]: https://github.com/albinson-arias/record_result/issues
 [pull_request_link]: https://dart.dev/get-dart
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
