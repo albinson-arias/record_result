@@ -1,5 +1,4 @@
 import 'package:record_result/record_result.dart';
-import 'package:record_result/src/errors/failure.dart';
 import 'package:test/test.dart';
 
 void main() {
